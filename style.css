@@ -1,0 +1,85 @@
+html{
+    scroll-behavior: smooth;
+ }
+ 
+ .mainbar nav{
+ 
+     background-color: whitesmoke;
+     background-origin: padding-box;
+     padding: 25px;
+     padding-left: 25px;
+     position: fixed;
+    
+ }
+ .mainbar nav ul{
+     list-style: none;
+     display: flex;
+     list-style-type: none;
+     
+ }
+ a{
+     text-decoration: none;
+     margin-left: 215px;
+ }
+ 
+ .subject{
+     display: flex;
+ }
+ #Profile{
+     display: flex;
+ }
+ #Project{
+  padding-left: 100px;
+  padding-top: 150px;
+ }
+ #Contact{
+     margin-left: 200px;
+     padding-top: 75px;
+ }
+ .mainbar nav span a{
+   text-decoration-line: none;
+ }
+ 
+ .Education{
+     margin-left: 300px;
+ }
+ 
+ #contact{
+     background-origin: padding-box;
+     padding-top: 30px;
+     background-color: whitesmoke;
+     margin-top: 80px;
+ }
+ .picture{
+     margin-left: 200px;
+     
+ }
+ button{
+     background-color: whitesmoke;
+     border-radius: 20px;
+     box-sizing: 35px;
+ }
+ 
+ #About{
+     background-origin: padding-box;
+     padding-top: 150px;
+     padding-left: 300px;
+     background-color: whitesmoke;
+     
+ }
+ .subject{
+     background-origin: padding-box;
+     padding-top: 100px;
+     padding-left: 50px;
+     margin-right: 340px;
+     margin-top: 100px;
+ }
+ 
+ #Profile{
+     background-origin: padding-box;
+    padding-top: 200px;
+     padding-left: 50px;
+     margin-top: 100px;
+     
+     margin-right: 340px;
+ }
